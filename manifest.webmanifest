@@ -1,0 +1,29 @@
+{
+ "name": "CM Oral Bank",
+ "short_name": "CM Oral Bank",
+ "description": "Chief Mate (Unlimited) oral answer bank: 390 spoken answers, drills and mock orals.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0F2433",
+ "theme_color": "#0F2433",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
